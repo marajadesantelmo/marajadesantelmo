@@ -12,15 +12,13 @@ I specialize in ETL, data analysis, and automation, offering tailored solutions 
   <li><a href="https://github.com/ceped-fce-uba/precariedad.mundial">Precariedad Mundial</a>: A project that analyzes global labor precariousness using harmonized microdata from official household surveys across multiple countries.</li>
 </ul>
 
-<p align="left">
+<p align="right">
   <a href="https://www.linkedin.com/in/facundo-lastra-b205511aa/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="30" />
   </a>
-  &nbsp;&nbsp;
   <a href="https://github.com/marajadesantelmo" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" height="30" width="30" />
   </a>
-  &nbsp;&nbsp;
   <a href="mailto:marajadesantelmo@gmail.com">
     <img src="https://img.icons8.com/material-outlined/30/000000/new-post.png" alt="Email" height="30" width="30"/>
   </a>

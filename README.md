@@ -22,4 +22,7 @@ I specialize in ETL, data analysis, and automation, offering tailored solutions 
   <a href="mailto:marajadesantelmo@gmail.com">
     <img src="https://img.icons8.com/material-outlined/30/000000/new-post.png" alt="Email" height="30" width="30"/>
   </a>
+  <a href="https://scholar.google.com/citations?hl=es&user=mkO9fmYAAAAJ&view_op=list_works&sortby=pubdate" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/30/000000/google-scholar.png" alt="Google Scholar" height="30" width="30"/>
+  </a>
 </p>

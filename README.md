@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Facundo</h1>
 
 <p>
-Professionally, I specialize in ETL, data analysis, and automation, offering tailored solutions for businesses. I currently collaborate as an independent contractor with DASSA, Big Pons, Liftvan, Mercovan, and DGM. I'm passionate about teaching, sharing knowledge, and continuous learning. I hold a Bachelor's degree in Economics (FCE-UBA), a postgraduate degree in Data Science (FECyN-UBA), a Master's in International Economics (HWR-Berlin), and a PhD in Social Sciences (FSOC-UBA).
+Professionally, I specialize in ETL, data analysis, and automation, offering tailored solutions for businesses. I currently collaborate as an independent contractor with DASSA, Big Pons, Liftvan, Mercovan, and DGM. I hold a Bachelor's degree in Economics (FCE-UBA), a postgraduate degree in Data Science (FECyN-UBA), a Master's in International Economics (HWR-Berlin), and a PhD in Social Sciences (FSOC-UBA).
 </p>
 
 <p>
-As part of my passion for open science and social impact, I actively engage in collaborative data projects such as <a href="https://github.com/marajadesantelmo/deltix">Deltix</a>, a Telegram chatbot for the Lower Paraná Delta region, and research initiatives at the Centro de Estudios sobre Población, Empleo y Desarrollo (CEPED-UBA).
+As part of my passion for open science and social impact, I actively contribute to collaborative data and education projects such as <a href="https://github.com/marajadesantelmo/deltix">Deltix</a>, a Telegram chatbot for the Lower Paraná Delta region, and research initiatives at the Centro de Estudios sobre Población, Empleo y Desarrollo (CEPED-UBA).
 </p>
 
 <p>Some of my open source and collaborative projects include:</p>
@@ -14,6 +14,8 @@ As part of my passion for open science and social impact, I actively engage in c
   <li><a href="https://github.com/marajadesantelmo/deltix">Deltix</a>: A Telegram chatbot designed for residents and visitors of the Lower Paraná Delta region.</li>
   <li><a href="https://github.com/ceped-fce-uba/ceped-data">Ceped-data</a>: Open data repository of the Centro de Estudios sobre Población, Empleo y Desarrollo (CEPED-UBA).</li>
   <li><a href="https://github.com/ceped-fce-uba/precariedad.mundial">Precariedad Mundial</a>: A project that analyzes global labor precariousness using harmonized microdata from official household surveys across multiple countries.</li>
+  <li><a href="https://github.com/Guidowe/occupationcross">Occupationcross</a>: An R package to apply crosswalks between occupational classifiers. Its main function, reclassify_to_isco08(), helps reclassify national occupation codes to ISCO-08. It includes preloaded data tables and documentation for multiple classifier systems.</li>
+  <li><a href="https://github.com/ceped-fce-uba/curso_aset">Curso ASET</a>: Repository for the course "Herramientas de programación para la producción y difusión de estadísticas socioeconómicas", organized by ASET (Oct–Dec 2024).</li>
 </ul>
 
 <p align="right">

@@ -18,6 +18,17 @@ As part of my passion for open science and social impact, I actively contribute 
   <li><a href="https://github.com/ceped-fce-uba/curso_aset">Curso ASET</a>: Repository for the course "Herramientas de programación para la producción y difusión de estadísticas socioeconómicas", organized by ASET (Oct–Dec 2024).</li>
 </ul>
 
+<h3 align="center">🛠️ Tech Stack </h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R"/>
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
+  <img src="https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=looker&logoColor=white" alt="Looker"/>
+</p>
+
 <p align="right">
   <a href="https://www.linkedin.com/in/facundo-lastra-b205511aa/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="30" />

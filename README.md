@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Facundo</h1>
 
 <p>
-Professionally, I specialize in ETL, data analysis, and automation, offering tailored solutions for businesses. I currently collaborate as an independent contractor with DASSA, Big Pons, Liftvan, Mercovan, and DGM. I hold a Bachelor's degree in Economics (FCE-UBA), a postgraduate degree in Data Science (FECyN-UBA), a Master's in International Economics (HWR-Berlin), and a PhD in Social Sciences (FSOC-UBA).
-</p>
-
-<p>
-As part of my passion for open science and social change, I actively contribute to collaborative projects such as <a href="https://github.com/marajadesantelmo/deltix">Deltix</a>, a Telegram chatbot for the Lower Paraná Delta region, and research initiatives at the Centro de Estudios sobre Población, Empleo y Desarrollo (CEPED-UBA).
+Professionally, I specialize in ETL, data analysis, and automation, offering tailored solutions for businesses. I currently collaborate as an independent contractor with DASSA, Big Pons, Liftvan, Mercovan, and DGM. I hold a Bachelor's degree in Economics (FCE-UBA), a postgraduate degree in Data Science (FECyN-UBA), a Master's in International Economics (HWR-Berlin), and a PhD in Social Sciences (FSOC-UBA). As part of my passion for open science and social change, I actively contribute to collaborative projects such as <a href="https://github.com/marajadesantelmo/deltix">Deltix</a>, a Telegram chatbot for the Lower Paraná Delta region, and research initiatives at the Centro de Estudios sobre Población, Empleo y Desarrollo (CEPED-UBA).
 </p>
 
 <p>These are some of the open source and collaborative projects I contribute to:</p>

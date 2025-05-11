@@ -5,10 +5,10 @@ Professionally, I specialize in ETL, data analysis, and automation, offering tai
 </p>
 
 <p>
-As part of my passion for open science and social change, I actively contribute to collaborative projects such as <a href="https://github.com/marajadesantelmo/deltix">Deltix</a>, a Telegram chatbot for the Lower Paraná Delta region, and research initiatives at the Centro de Estudios sobre Población, Empleo y Desarrollo (CEPED-UBA). <a href="https://github.com/marajadesantelmo/deltix](https://scholar.google.com/citations?hl=es&user=mkO9fmYAAAAJ">Click here</a> to check out my academic articles. 
+As part of my passion for open science and social change, I actively contribute to collaborative projects such as <a href="https://github.com/marajadesantelmo/deltix">Deltix</a>, a Telegram chatbot for the Lower Paraná Delta region, and research initiatives at the Centro de Estudios sobre Población, Empleo y Desarrollo (CEPED-UBA).
 </p>
 
-<p>Some of my open source and collaborative projects include:</p>
+<p>These are some of the open source and collaborative projects I contribute to:</p>
 
 <ul>
   <li><a href="https://github.com/marajadesantelmo/deltix">Deltix</a>: A Telegram chatbot designed for residents and visitors of the Lower Paraná Delta region.</li>

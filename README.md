@@ -9,8 +9,8 @@ Professionally, I specialize in ETL, data analysis, and automation, offering tai
 <ul>
   <li><a href="https://github.com/marajadesantelmo/deltix">Deltix</a>: A Telegram chatbot designed for residents and visitors of the Lower Paraná Delta region. Developed in python. </li>
   <li><a href="https://github.com/ceped-fce-uba/ceped-data">Ceped-data</a>: Open data repository of the Centro de Estudios sobre Población, Empleo y Desarrollo (CEPED-UBA). Developed in R's Shiny</li>
-  <li><a href="https://github.com/ceped-fce-uba/precariedad.mundial">Precariedad Mundial</a>: A project that analyzes global labor precariousness using harmonized microdata from official household surveys across multiple countries. Developed in R.</li>
-  <li><a href="https://github.com/Guidowe/occupationcross">Occupationcross</a>: An R package to apply crosswalks between occupational classifiers. Its main function, reclassify_to_isco08(), helps reclassify national occupation codes to ISCO-08. It includes preloaded data tables and documentation for multiple classifier systems.</li>
+  <li><a href="https://github.com/ceped-fce-uba/precariedad.mundial">Precariedad Mundial</a>: A project that harmonizes microdata from official household surveys across multiple countries and analyses labour market statitstics. Developed in R.</li>
+  <li><a href="https://github.com/Guidowe/occupationcross">Occupationcross</a>: An R package to apply crosswalks between occupational classifiers. Its main function, reclassify_to_isco08(), helps reclassify national occupation codes to ISCO-08. </li>
   <li><a href="https://github.com/ceped-fce-uba/curso_aset">Curso ASET</a>: Repository for the course "Herramientas de programación para la producción y difusión de estadísticas socioeconómicas", organized by ASET (Oct–Dec 2024). The course covers R, control version with Git, Looker and PowerBI</li>
 </ul>
 

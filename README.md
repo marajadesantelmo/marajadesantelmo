@@ -17,15 +17,33 @@ Professionally, I specialize in ETL, data analysis, and automation, offering tai
 <h3 align="center">🛠️ Tech Stack </h3>
 
 <p align="center">
+  Languages
+</p>
+<p align="center">
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R"/>
   <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
+</p>
+<p align="center">
+  Vizualisation tools
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
   <img src="https://img.shields.io/badge/Shiny-1d62f0?style=for-the-badge&logo=r&logoColor=white" alt="Shiny"/>
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
   <img src="https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=looker&logoColor=white" alt="Looker"/>
+</p>
+<p align="center">
+  and more...
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/tidyverse-1B5E20?style=for-the-badge&logo=r&logoColor=white" alt="Tidyverse"/>
+  <img src="https://img.shields.io/badge/ggplot2-2C3E50?style=for-the-badge&logo=r&logoColor=white" alt="ggplot2"/>
+  <img src="https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="DAX"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
+  <img src="https://img.shields.io/badge/XGBoost-EC0F27?style=for-the-badge&logo=xgboost&logoColor=white" alt="XGBoost"/>
+  <img src="https://img.shields.io/badge/LightGBM-024E7A?style=for-the-badge&logo=lightgbm&logoColor=white" alt="LightGBM"/>
 </p>
 
 <p align="right">

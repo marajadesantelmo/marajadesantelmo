@@ -39,11 +39,9 @@ Professionally, I specialize in ETL, data analysis, and automation, offering tai
 <p align="center">
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
   <img src="https://img.shields.io/badge/tidyverse-1B5E20?style=for-the-badge&logo=r&logoColor=white" alt="Tidyverse"/>
-  <img src="https://img.shields.io/badge/ggplot2-2C3E50?style=for-the-badge&logo=r&logoColor=white" alt="ggplot2"/>
   <img src="https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="DAX"/>
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
-  <img src="https://img.shields.io/badge/XGBoost-EC0F27?style=for-the-badge&logo=xgboost&logoColor=white" alt="XGBoost"/>
-  <img src="https://img.shields.io/badge/LightGBM-024E7A?style=for-the-badge&logo=lightgbm&logoColor=white" alt="LightGBM"/>
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium"/>
 </p>
 
 <p align="right">

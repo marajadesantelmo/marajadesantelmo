@@ -1,23 +1,40 @@
 <h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=%C2%A1Hola!+👋;+Soy+Facundo+Lastra;" />
+</h1>
+
+<p>
+Profesionalmente, me especializo en procesos ETL, análisis de datos y automatización, ofreciendo soluciones a medida para empresas. Actualmente colaboro como consultor independiente con <a href="https://dassa.com.ar/">DASSA</a> y <a href="https://bigpons.com.ar/">Big Pons</a>. Soy Licenciado en Economía (FCE-UBA), tengo un posgrado en Ciencia de Datos (FECyN-UBA), Magíster en Economía Internacional (HWR-Berlin) y Doctorado en Ciencias Sociales (FSOC-UBA). Como parte de mi compromiso con la ciencia abierta y el cambio social, participo activamente en proyectos colaborativos como el chatbot <a href="https://github.com/marajadesantelmo/deltix">Deltix</a> y en investigaciones en el Centro de Estudios sobre Población, Empleo y Desarrollo (<a href="https://www.economicas.uba.ar/investigacion/institutos-y-centros/ceped/">CEPED-UBA</a>).
+</p>
+
+<p>Estos son algunos proyectos colaborativos y de código abierto en los que participo:</p>
+
+<ul>
+  <li><a href="https://github.com/marajadesantelmo/deltix">Deltix</a>: Un chatbot de Telegram para residentes y visitantes del Delta Inferior del Paraná. Desarrollado en Python. <a href="https://t.me/deltix_del_humedal_bot">Conversá con él</a> o miralo en <a href="https://www.instagram.com/deltix_bot">Instagram</a></li>
+  <li><a href="https://github.com/ceped-fce-uba/ceped-data">Ceped-data</a>: Repositorio de datos abiertos del Centro de Estudios sobre Población, Empleo y Desarrollo (CEPED-UBA). Desarrollado con Shiny de R.</li>
+  <li><a href="https://ceped-fce-uba.github.io/precariedad.mundial/">Precariedad Mundial</a>: Proyecto que armoniza microdatos de encuestas de hogares oficiales de múltiples países y analiza estadísticas laborales. Desarrollado en R.</li>
+  <li><a href="https://github.com/Guidowe/occupationcross">Occupationcross</a>: Paquete en R para aplicar correspondencias entre clasificadores ocupacionales. Su función principal, reclassify_to_isco08(), re-clasifica códigos nacionales a ISCO-08.</li>
+  <li><a href="https://ceped-fce-uba.github.io/curso_aset">Curso ASET</a>: Repositorio del curso "Herramientas de programación para la producción y difusión de estadísticas socioeconómicas", organizado por ASET (Oct–Dic 2024). El curso cubre R, control de versiones con Git, Looker y PowerBI.</li>
+</ul>
+
+<h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Facundo+Lastra;" />
 </h1>
 
 <p>
-Professionally, I specialize in ETL, data analysis, and automation, offering tailored solutions for businesses. I currently collaborate as an independent contractor with <a href="https://dassa.com.ar/">DASSA</a> and <a href="https://bigpons.com.ar/">Big Pons</a>. I hold a Bachelor's degree in Economics (FCE-UBA), a postgraduate degree in Data Science (FECyN-UBA), a Master's in International Economics (HWR-Berlin), and a PhD in Social Sciences (FSOC-UBA). As part of my passion for open science and social change, I actively contribute to collaborative projects such as <a href="https://github.com/marajadesantelmo/deltix">Deltix</a> chatbot and research initiatives at the Centro de Estudios sobre Población, Empleo y Desarrollo (<a href="https://www.economicas.uba.ar/investigacion/institutos-y-centros/ceped/">CEPED-UBA</a>). 
+Professionally, I specialize in ETL, data analysis, and automation, offering tailored solutions for businesses. I currently collaborate as an independent contractor with <a href="https://dassa.com.ar/">DASSA</a> and <a href="https://bigpons.com.ar/">Big Pons</a>. I hold a Bachelor's degree in Economics (FCE-UBA), a postgraduate degree in Data Science (FECyN-UBA), a Master's in International Economics (HWR-Berlin), and a PhD in Social Sciences (FSOC-UBA). As part of my passion for open science and social change, I actively contribute to collaborative projects such as the <a href="https://github.com/marajadesantelmo/deltix">Deltix</a> chatbot and research initiatives at the Centro de Estudios sobre Población, Empleo y Desarrollo (<a href="https://www.economicas.uba.ar/investigacion/institutos-y-centros/ceped/">CEPED-UBA</a>).
 </p>
 
 <p>Here are some open source and collaborative projects I’m involved in:</p>
 
 <ul>
-  <li><a href="https://github.com/marajadesantelmo/deltix">Deltix</a>: A Telegram chatbot for residents and visitors of the Lower Paraná Delta region. Developed in python. <a href="https://t.me/deltix_del_humedal_bot">Chat with him</a> or check it out on <a href="https://www.instagram.com/deltix_bot"> Instagram </a></li>
-  <li><a href="https://github.com/ceped-fce-uba/ceped-data">Ceped-data</a>: Open data repository of the Centro de Estudios sobre Población, Empleo y Desarrollo (CEPED-UBA). Developed in R's Shiny</li>
+  <li><a href="https://github.com/marajadesantelmo/deltix">Deltix</a>: A Telegram chatbot for residents and visitors of the Lower Paraná Delta region. Developed in Python. <a href="https://t.me/deltix_del_humedal_bot">Chat with him</a> or check it out on <a href="https://www.instagram.com/deltix_bot"> Instagram </a></li>
+  <li><a href="https://github.com/ceped-fce-uba/ceped-data">Ceped-data</a>: Open data repository of the Centro de Estudios sobre Población, Empleo y Desarrollo (CEPED-UBA). Developed in R's Shiny.</li>
   <li><a href="https://ceped-fce-uba.github.io/precariedad.mundial/">Precariedad Mundial</a>: A project that harmonizes microdata from official household surveys across multiple countries and analyses labour market statistics. Developed in R.</li>
-  <li><a href="https://github.com/Guidowe/occupationcross">Occupationcross</a>: An R package to apply crosswalks between occupational classifiers. Its main function, reclassify_to_isco08(), helps reclassify national occupation codes to ISCO-08. </li>
-  <li><a href="https://ceped-fce-uba.github.io/curso_aset">Curso ASET</a>: Repository for the course "Herramientas de programación para la producción y difusión de estadísticas socioeconómicas", organized by ASET (Oct–Dec 2024). The course covers R, control version with Git, Looker and PowerBI</li>
+  <li><a href="https://github.com/Guidowe/occupationcross">Occupationcross</a>: An R package to apply crosswalks between occupational classifiers. Its main function, reclassify_to_isco08(), helps reclassify national occupation codes to ISCO-08.</li>
+  <li><a href="https://ceped-fce-uba.github.io/curso_aset">Curso ASET</a>: Repository for the course "Herramientas de programación para la producción y difusión de estadísticas socioeconómicas", organized by ASET (Oct–Dec 2024). The course covers R, version control with Git, Looker and PowerBI.</li>
 </ul>
 
 <h3 align="center">🛠️ Tech Stack </h3>
-
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>

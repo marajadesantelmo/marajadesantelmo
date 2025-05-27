@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=%C2%A1Hola!+👋;+Soy+Facundo+Lastra;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=4000&lines=%C2%A1Hola!+👋+Soy+Facundo+Lastra;+Hi+There!+👋+I'm+Facundo+Lastra" />
 </h1>
 
 <p>
@@ -15,10 +15,6 @@ Profesionalmente, me especializo en procesos ETL, análisis de datos y automatiz
   <li><a href="https://github.com/Guidowe/occupationcross">Occupationcross</a>: Paquete en R para aplicar correspondencias entre clasificadores ocupacionales. Su función principal, reclassify_to_isco08(), re-clasifica códigos nacionales a ISCO-08.</li>
   <li><a href="https://ceped-fce-uba.github.io/curso_aset">Curso ASET</a>: Repositorio del curso "Herramientas de programación para la producción y difusión de estadísticas socioeconómicas", organizado por ASET (Oct–Dic 2024). El curso cubre R, control de versiones con Git, Looker y PowerBI.</li>
 </ul>
-
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Facundo+Lastra;" />
-</h1>
 
 <p>
 Professionally, I specialize in ETL, data analysis, and automation, offering tailored solutions for businesses. I currently collaborate as an independent contractor with <a href="https://dassa.com.ar/">DASSA</a> and <a href="https://bigpons.com.ar/">Big Pons</a>. I hold a Bachelor's degree in Economics (FCE-UBA), a postgraduate degree in Data Science (FECyN-UBA), a Master's in International Economics (HWR-Berlin), and a PhD in Social Sciences (FSOC-UBA). As part of my passion for open science and social change, I actively contribute to collaborative projects such as the <a href="https://github.com/marajadesantelmo/deltix">Deltix</a> chatbot and research initiatives at the Centro de Estudios sobre Población, Empleo y Desarrollo (<a href="https://www.economicas.uba.ar/investigacion/institutos-y-centros/ceped/">CEPED-UBA</a>).

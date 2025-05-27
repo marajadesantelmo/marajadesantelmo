@@ -16,6 +16,8 @@ Profesionalmente, me especializo en procesos ETL, análisis de datos y automatiz
   <li><a href="https://ceped-fce-uba.github.io/curso_aset">Curso ASET</a>: Repositorio del curso "Herramientas de programación para la producción y difusión de estadísticas socioeconómicas", organizado por ASET (Oct–Dic 2024). El curso cubre R, control de versiones con Git, Looker y PowerBI.</li>
 </ul>
 
+<hr>
+
 <p>
 Professionally, I specialize in ETL, data analysis, and automation, offering tailored solutions for businesses. I currently collaborate as an independent contractor with <a href="https://dassa.com.ar/">DASSA</a> and <a href="https://bigpons.com.ar/">Big Pons</a>. I hold a Bachelor's degree in Economics (FCE-UBA), a postgraduate degree in Data Science (FECyN-UBA), a Master's in International Economics (HWR-Berlin), and a PhD in Social Sciences (FSOC-UBA). As part of my passion for open science and social change, I actively contribute to collaborative projects such as the <a href="https://github.com/marajadesantelmo/deltix">Deltix</a> chatbot and research initiatives at the Centro de Estudios sobre Población, Empleo y Desarrollo (<a href="https://www.economicas.uba.ar/investigacion/institutos-y-centros/ceped/">CEPED-UBA</a>).
 </p>
@@ -29,6 +31,8 @@ Professionally, I specialize in ETL, data analysis, and automation, offering tai
   <li><a href="https://github.com/Guidowe/occupationcross">Occupationcross</a>: An R package to apply crosswalks between occupational classifiers. Its main function, reclassify_to_isco08(), helps reclassify national occupation codes to ISCO-08.</li>
   <li><a href="https://ceped-fce-uba.github.io/curso_aset">Curso ASET</a>: Repository for the course "Herramientas de programación para la producción y difusión de estadísticas socioeconómicas", organized by ASET (Oct–Dec 2024). The course covers R, version control with Git, Looker and PowerBI.</li>
 </ul>
+
+<hr>
 
 <h3 align="center">🛠️ Tech Stack </h3>
 

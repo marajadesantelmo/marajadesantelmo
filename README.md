@@ -13,7 +13,7 @@ Profesionalmente, me especializo en el desarrollo de procesos ETL, automatizacio
   <li><a href="https://github.com/ceped-fce-uba/ceped-data">Ceped-data</a>: Repositorio de datos abiertos del Centro de Estudios sobre Población, Empleo y Desarrollo (CEPED-UBA). Desarrollado con Shiny de R.</li>
   <li><a href="https://ceped-fce-uba.github.io/precariedad.mundial/">Precariedad Mundial</a>: Proyecto que armoniza microdatos de encuestas de hogares oficiales de múltiples países y analiza estadísticas laborales. Desarrollado en R.</li>
   <li><a href="https://github.com/Guidowe/occupationcross">Occupationcross</a>: Paquete en R para aplicar correspondencias entre clasificadores ocupacionales. Su función principal, reclassify_to_isco08(), re-clasifica códigos nacionales a ISCO-08.</li>
-  <li><a href="https://ceped-fce-uba.github.io/curso_aset">Curso ASET</a>: Repositorio del curso "Herramientas de programación para la producción y difusión de estadísticas socioeconómicas", organizado por ASET (Oct–Dic 2024). El curso cubre R, control de versiones con Git, Looker y PowerBI.</li>
+  <li><a href="https://ceped-fce-uba.github.io/curso_aset">Curso ASET</a>: Repositorio del curso "Herramientas de programación para la producción y difusión de estadísticas socioeconómicas", organizado por ASET (Oct–Dic 2024). El curso cubre R,  Git, Looker y PowerBI.</li>
 </ul>
 
 <hr>
@@ -29,7 +29,7 @@ Professionally, I specialize in ETL processes, data analysis, automation, and da
   <li><a href="https://github.com/ceped-fce-uba/ceped-data">Ceped-data</a>: Open data repository of the Centro de Estudios sobre Población, Empleo y Desarrollo (CEPED-UBA). Developed in R's Shiny.</li>
   <li><a href="https://ceped-fce-uba.github.io/precariedad.mundial/">Precariedad Mundial</a>: A project that harmonizes microdata from official household surveys across multiple countries and analyses labour market statistics. Developed in R.</li>
   <li><a href="https://github.com/Guidowe/occupationcross">Occupationcross</a>: An R package to apply crosswalks between occupational classifiers. Its main function, reclassify_to_isco08(), helps reclassify national occupation codes to ISCO-08.</li>
-  <li><a href="https://ceped-fce-uba.github.io/curso_aset">Curso ASET</a>: Repository for the course "Herramientas de programación para la producción y difusión de estadísticas socioeconómicas", organized by ASET (Oct–Dec 2024). The course covers R, version control with Git, Looker and PowerBI.</li>
+  <li><a href="https://ceped-fce-uba.github.io/curso_aset">Curso ASET</a>: Repository for the course "Herramientas de programación para la producción y difusión de estadísticas socioeconómicas", organized by ASET (Oct–Dec 2024). The course covers R, Git, Looker and PowerBI.</li>
 </ul>
 
 <hr>

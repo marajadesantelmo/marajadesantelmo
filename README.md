@@ -9,7 +9,7 @@ Profesionalmente, me especializo en el desarrollo de procesos ETL, automatizacio
 <p>Estos son algunos proyectos colaborativos y de código abierto en los que participo:</p>
 
 <ul>
-  <li><a href="https://github.com/marajadesantelmo/deltix">Deltix</a>: chatbot de Telegram para residentes y visitantes del Delta Inferior del Paraná. Desarrollado en Python. <a href="https://t.me/deltix_del_humedal_bot">Conversá con él</a> o visitanos en <a href="https://www.instagram.com/deltix_bot">Instagram</a></li>
+  <li><a href="https://github.com/marajadesantelmo/deltix">Deltix</a>: chatbot de Telegram para residentes y visitantes del Delta Inferior del Paraná. Desarrollado en Python. <a href="https://www.deltix.com.ar">Conversá con él en la web</a>, o <a href="https://t.me/deltix_del_humedal_bot">en Telegraml</a> o visitanos en <a href="https://www.instagram.com/deltix_bot">Instagram</a></li>
   <li><a href="https://github.com/ceped-fce-uba/ceped-data">Ceped-data</a>: Repositorio de datos abiertos del Centro de Estudios sobre Población, Empleo y Desarrollo (CEPED-UBA). Desarrollado con Shiny de R.</li>
   <li><a href="https://ceped-fce-uba.github.io/precariedad.mundial/">Precariedad Mundial</a>: Proyecto que armoniza microdatos de encuestas de hogares oficiales de múltiples países y analiza estadísticas laborales. Desarrollado en R.</li>
   <li><a href="https://github.com/Guidowe/occupationcross">Occupationcross</a>: Paquete en R para aplicar correspondencias entre clasificadores ocupacionales. Su función principal, reclassify_to_isco08(), re-clasifica códigos nacionales a ISCO-08.</li>
@@ -25,7 +25,7 @@ Professionally, I specialize in ETL processes, data analysis, automation, and da
 <p>Here are some open source and collaborative projects I’m involved in:</p>
 
 <ul>
-  <li><a href="https://github.com/marajadesantelmo/deltix">Deltix</a>: Telegram chatbot for residents and visitors of the Lower Paraná Delta region. Developed in Python. <a href="https://t.me/deltix_del_humedal_bot">Chat with him</a> or check it out on <a href="https://www.instagram.com/deltix_bot"> Instagram </a></li>
+  <li><a href="https://github.com/marajadesantelmo/deltix">Deltix</a>: Telegram chatbot for residents and visitors of the Lower Paraná Delta region. Developed in Python. <a href="https://www.deltix.com.ar">Chat with him</a> or check it out on <a href="https://www.instagram.com/deltix_bot"> Instagram </a></li>
   <li><a href="https://github.com/ceped-fce-uba/ceped-data">Ceped-data</a>: Open data repository of the Centro de Estudios sobre Población, Empleo y Desarrollo (CEPED-UBA). Developed in R's Shiny.</li>
   <li><a href="https://ceped-fce-uba.github.io/precariedad.mundial/">Precariedad Mundial</a>: A project that harmonizes microdata from official household surveys across multiple countries and analyses labour market statistics. Developed in R.</li>
   <li><a href="https://github.com/Guidowe/occupationcross">Occupationcross</a>: An R package to apply crosswalks between occupational classifiers. Its main function, reclassify_to_isco08(), helps reclassify national occupation codes to ISCO-08.</li>

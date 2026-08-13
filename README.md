@@ -17,10 +17,8 @@ Profesionalmente, me especializo en el desarrollo de procesos ETL, automatizacio
 <hr>
 
 <p>
-Professionally, I specialize in ETL processes, data analysis, automation, and data visualization, delivering tailored solutions for companies as Project Manager at <a href="https://www.pymetech.org">PymeTech</a>. I currently collaborate with <a href="https://dassa.com.ar/">DASSA</a>, <a href="https://bigpons.com.ar/">Big Pons</a>, <a href="https://kiddo.com.ar/">Kiddo</a>, <a href="https://liftvan.com/">LiftVan</a>, <a href="https://mercovan.com.ar/">Mercovan</a>, <a href="https://dgmflorida.com/">DGM</a>, and <a href="https://nextvision.com/">NextVision</a>. I hold a Bachelor's degree in Economics (FCE-UBA), a postgraduate degree in Data Science (FECyN-UBA), a Master's in International Economics (HWR-Berlin), and a PhD in Social Sciences (FSOC-UBA). Passionate about open science and social impact, I participate in collaborative projects like the following:
+Professionally, I specialize in ETL processes, data analysis, automation, and data visualization, delivering tailored solutions for companies as Project Manager at <a href="https://www.pymetech.org">PymeTech</a>. I currently collaborate with <a href="https://dassa.com.ar/">DASSA</a>, <a href="https://bigpons.com.ar/">Big Pons</a>, <a href="https://kiddo.com.ar/">Kiddo</a>, <a href="https://liftvan.com/">LiftVan</a>, <a href="https://mercovan.com.ar/">Mercovan</a>, <a href="https://dgmflorida.com/">DGM</a>, and <a href="https://nextvision.com/">NextVision</a>. I hold a Bachelor's degree in Economics (FCE-UBA), a postgraduate degree in Data Science (FECyN-UBA), a Master's in International Economics (HWR-Berlin), and a PhD in Social Sciences (FSOC-UBA). Here are some open source and collaborative projects I’m involved in:
 </p>
-
-<p>Here are some open source and collaborative projects I’m involved in:</p>
 
 <ul>
   <li><a href="https://github.com/marajadesantelmo/deltix">Deltix</a>: Telegram chatbot for residents and visitors of the Lower Paraná Delta region. Developed in Python. <a href="https://www.deltix.com.ar">Chat with him</a> or check it out on <a href="https://www.instagram.com/deltix_bot"> Instagram </a></li>
